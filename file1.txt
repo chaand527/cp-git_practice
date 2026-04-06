@@ -1,3 +1,6 @@
 hello
 this file is to practice git concepts
 
+this is developer shna adding to the project
+
+
