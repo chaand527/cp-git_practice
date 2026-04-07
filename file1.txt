@@ -23,3 +23,12 @@ Delete a Branch: git branch -d <branch-name>
 Deletes a branch safely only if it has already been merged.
 Use -D to force-delete an unmerged branch.
 Rename a Branch: git branch -m <old-name> <new-name>
+
+
+
+
+
+to check branch working
+adding content from branch chandru
+merging to master branch 
+
