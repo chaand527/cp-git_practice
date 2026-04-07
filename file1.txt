@@ -8,5 +8,10 @@ day2
 7/4/2026 tuesday
 dev shna adding to the project
 
+day2-chandru updating 
+To exit the git show command and return to your terminal prompt, use the following methods:
+Press q: This is the standard way to quit the pager (usually less) that Git uses to display long output.
+Press Ctrl + C: If q does not work, this can forcefully exit the pager in some environments.
+
 
 
