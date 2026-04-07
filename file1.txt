@@ -4,3 +4,9 @@ this file is to practice git concepts
 this is developer shna adding to the project
 
 
+day2 
+7/4/2026 tuesday
+dev shna adding to the project
+
+
+
