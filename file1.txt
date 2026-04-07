@@ -14,4 +14,12 @@ Press q: This is the standard way to quit the pager (usually less) that Git uses
 Press Ctrl + C: If q does not work, this can forcefully exit the pager in some environments.
 
 
-
+Core Commands
+List Local Branches: git branch
+Shows all local branches; the current branch is marked with an asterisk (*).
+Create a Branch: git branch <branch-name>
+Creates a new pointer at your current commit. Note: This does not switch you to the new branch.
+Delete a Branch: git branch -d <branch-name>
+Deletes a branch safely only if it has already been merged.
+Use -D to force-delete an unmerged branch.
+Rename a Branch: git branch -m <old-name> <new-name>
