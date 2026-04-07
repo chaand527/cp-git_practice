@@ -7,9 +7,6 @@ rrrrrrrrrrrrrrrrrrrrr
 
 
 
-ttttttttttttttttt
-yyyyyyyyyyyyyyyyyyyyyy
-uuuuuuuuuuuuuuuuuuuuuuuuu
 
 
 cpppppppppppp
